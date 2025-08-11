@@ -8,7 +8,7 @@ const entryPath = "src";
 
 module.exports = {
     mode: "none",
-    entry: `./${entryPath}/js/index.js`,
+    entry: `./${entryPath}/js/Index.js`,
     devtool: "inline-source-map",
     output: {
         filename: "out.js",
